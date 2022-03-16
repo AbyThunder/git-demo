@@ -1,2 +1,4 @@
 some text
 second line
+
+adding 4th line
